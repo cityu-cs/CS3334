@@ -1,0 +1,17 @@
+# Distributed Materials
+
+Labs/*
+Lectures/*
+Midterm/*
+
+# Demo
+
+Demo/*
+
+# Compiled Executables
+
+*.exe
+
+# Helper Files
+
+clean.py
